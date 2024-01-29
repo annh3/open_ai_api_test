@@ -1,1 +1,1 @@
-# open_ai_api_test
+# Testing out the Open AI API
